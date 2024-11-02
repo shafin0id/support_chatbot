@@ -110,6 +110,7 @@ chatInterface.style.position = 'fixed';
     });
 })();
 </script>
+```
 Replace 'http://yourdomain.com/gradio' with the actual URL where your chatbot is hosted.
 Development
 
